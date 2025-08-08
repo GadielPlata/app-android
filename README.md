@@ -16,7 +16,7 @@ Una aplicación Android desarrollada en Java/Kotlin que permite realizar convers
 ## 📷 Capturas de pantalla
 
 
-| ![](capturas/ima1.jpg) | ![](capturas/ima2.jpg) | ![](capturas/ima3.jpg) | ![](capturas/ima4.jpg) |
+| ![](Conversor/capturas/ima1.jpg) | ![](capturas/ima2.jpg) | ![](capturas/ima3.jpg) | ![](capturas/ima4.jpg) |
 
 
 ## ⚙️ Tecnologías usadas
