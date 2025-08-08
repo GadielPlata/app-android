@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="medidas">
+        <item>medidas</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>inch</item>
+        <item>inch(1/n)</item>
+        <item>ft</item>
+        <item>ft in</item>
+        <item>yd</item>
+        <item>mile</item>
+        <item>km</item>
+    </string-array>
+</resources>
